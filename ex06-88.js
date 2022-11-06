@@ -1,2 +1,4 @@
-<input type="button" value="画像の変更" onclick="imgchange1();">
-<imgsrc='./image/josai.png' id="logo" alt="JosaiLogo“>
+function imgchange1()
+{
+document.getElementById('img1').innerHTML = '<img src="./image/abm00047230.jpg">';
+}
