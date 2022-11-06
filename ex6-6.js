@@ -20,3 +20,4 @@ function hanako66() {
 who66 = '花子';
 alert(who66+'が来た' +'!');
 }
+
