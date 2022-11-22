@@ -1,6 +1,6 @@
 function imgchange1() 
 {
-document.getElementById('logo').src='./image/denkyuu.png';
+document.getElementById('logo').src='./image/dennkyu.png';
 }
 
 function imgchange2()
