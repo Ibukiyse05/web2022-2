@@ -1,2 +1,2 @@
-function imgchange5() {document.getElementById('logo1').src ="./image/";}
-function imgchange6() {document.getElementById('logo1').src ="./image/";}
+function imgchange5() {document.getElementById('logo1').src ="./image/img_26.jpg";}
+function imgchange6() {document.getElementById('logo1').src ="./image/img_27.jpg";}
