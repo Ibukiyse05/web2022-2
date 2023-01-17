@@ -1,1 +1,1 @@
-function imgchange688(){document.getElementById('josai').innerHTML='<img src="./image/josai.jpg" alt="オン">';}
+function imgchange1() {document.getElementById('img1').innerHTML = '<img src="./image/josai.jpg" alt="オフ" class="imagechange">';}
