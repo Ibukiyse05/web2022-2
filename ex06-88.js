@@ -1,1 +1,4 @@
-function imgchange1() {document.getElementById('img1').innerHTML = '<img src="./image/josai.jpg" alt="オフ" class="imagechange">';}
+function gazouhenko1()
+{
+document.getElementById('who688').innerHTML = '<img src="./image/.jpg">';
+}
